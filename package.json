@@ -1,0 +1,19 @@
+{
+  "name": "refactor_old_legacy_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/generator": "^7.12.1",
+    "@babel/parser": "^7.12.3",
+    "@babel/traverse": "^7.12.1",
+    "@babel/types": "^7.12.1",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.11.0"
+  }
+}
